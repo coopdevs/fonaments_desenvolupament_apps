@@ -267,4 +267,8 @@ Plataforma de desenvolupament software
 
 ---
 
-## Demo :clock:
+## Preguntes
+
+![](images/carretera.jpg)
+
+[.footer: Photo by Matthias Heil on Unsplash]
