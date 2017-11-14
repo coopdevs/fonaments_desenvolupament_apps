@@ -6,12 +6,13 @@
 
 ## Pau Pérez
 
-*dor a Coopdevs
+Desenvolupador a [Coopdevs](http://coopdevs.org/)
 
-@prez_pau
-sauloperez
+![50% right](images/coopdevs\ copy.jpg)
 
-40h* amb Katuma
+[@prez_pau](https://twitter.com/prez_pau)
+[github.com/sauloperez](https://github.com/sauloperez)
+[github.com/coopdevs](https://github.com/coopdevs)
 
 ---
 
