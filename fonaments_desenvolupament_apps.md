@@ -203,34 +203,67 @@ Retorna ~~HTML, CSS, JS~~ dades => web **API**
 
 ---
 
-## Reusant codi
-
-* Llibreria
-* Mòdul
-* Framework
+## Com es fa tot això?
 
 ---
 
-## Codi lliure
+## Escrivint codi en _____*<br><br><br>\* Ruby, JS, PHP, Elixir, Rust, Java, Clojure, Bash, Haskell, C++...
+
+---
+
+> No reinventis la roda
+-- Anònim
+
+![](images/roda.jpg)
+
+[.footer: Photo by Alice Achterhof on Unsplash]
+
+---
+
+## Reusant codi
+
+1. Llibreria
+2. Framework
+
+![right](images/cebes.jpg)
 
 ---
 
 ## Git
 
-* Sistema de control de versions
-* Posar ordre al caos
+Sistema distribuit de control de versions
+
+* Commits
+* Branques
+* Repositoris
+
+![right](images/git.png)
 
 ---
 
 ## Github
 
-* Servei de repositoris git
-* Consultar codi allotjat
+Plataforma de desenvolupament software
+
+* Allotjament de repositoris
+* Revisió del codi
+* Gestió del projecte
+* *Social coding*
 
 ---
 
 ## Anatomia d'un repositori
 ![](images/esquelet.jpg)
+
+[.footer: Photo by Nino Liverani on Unsplash]
+
+---
+
+## Anatomia d'un repositori
+
+[https://github.com/coopdevs/timeoverflow](https://github.com/coopdevs/timeoverflow)
+[https://github.com/departurerb/departure/](https://github.com/departurerb/departure)
+[https://github.com/facebook/react-native](https://github.com/facebook/react-native)
 
 ---
 
