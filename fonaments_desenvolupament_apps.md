@@ -8,7 +8,8 @@
 
 *dor a Coopdevs
 
-twitter + github
+@prez_pau
+sauloperez
 
 40h* amb Katuma
 
