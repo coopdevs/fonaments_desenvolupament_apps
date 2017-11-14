@@ -8,7 +8,7 @@
 
 Desenvolupador a [Coopdevs](http://coopdevs.org/)
 
-![50% right](images/coopdevs\ copy.jpg)
+![50% right](images/coopdevs.jpg)
 
 [@prez_pau](https://twitter.com/prez_pau)
 [github.com/sauloperez](https://github.com/sauloperez)
