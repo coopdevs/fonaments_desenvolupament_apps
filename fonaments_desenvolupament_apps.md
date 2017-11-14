@@ -1,5 +1,7 @@
 # Fonaments de desenvolupament d'apps
 
+[.footer: La Comunificadora]
+
 ---
 
 ## Pau Pérez
