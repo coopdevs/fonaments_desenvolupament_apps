@@ -16,7 +16,7 @@ sauloperez
 ---
 
 # Com funcionen les apps a internet?
-![](cebes.jpg)
+![](images/cebes.jpg)
 
 ---
 
