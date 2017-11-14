@@ -42,15 +42,68 @@ Desenvolupador a [Coopdevs](http://coopdevs.org/)
 
 ## Frontend
 
+![](images/porta.jpg)
+
+[.footer: Photo by Norbert Levajsics on Unsplash]
+
+---
+
+## Frontend
+
 * Navegador
+* Interfície d'usuari
+
+![right](images/js-css-html.jpg)
+
+[.footer: Photo by Greg Rakozy on Unsplash]
 
 ---
 
 ### HTML + CSS = Estil
 
+HTML
+
+```HTML
+<div class="row header">
+  <h1>Katuma</h1>
+  <h2 class="slogan">Compra directament a <span>productores agroecològiques de proximitat</span></h2>
+</div>
+```
+
+---
+
+### HTML + CSS = Estil
+
+CSS
+
+```CSS
+.header {
+    padding: 30px 0 0 50px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+```
+
 ---
 
 ### Javascript = Comportament
+
+```javascript
+if (calculator_select.attr('value') == original_calc_type) {
+      $('.calculator-settings').show();
+      $('#calculator-settings-warning').hide();
+      $('.calculator-settings input').prop("disabled", false);
+    } else {
+      $('.calculator-settings').hide();
+      $('#calculator-settings-warning').show();
+      $('.calculator-settings input').prop("disabled", true);
+    }
+}
+```
 
 ---
 
