@@ -12,7 +12,8 @@ twitter + github
 
 ---
 
-# Com funcionen les apps internet?
+# Com funcionen les apps a internet?
+![](cebes.jpg)
 
 ---
 
