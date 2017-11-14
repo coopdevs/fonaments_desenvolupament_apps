@@ -21,29 +21,36 @@ twitter + github
 
 ---
 
+### Client/Servidor
+
+1. Servidor espera passiu
+2. Client li envia una petició
+3. Client espera la resposta
+4. Servidor processa i retorna resposta
+
+---
+
 ## Frontend
 
 * Navegador
-* JavaScript
 
 ---
 
-### Navegador
+### HTML + CSS = Estil
 
 ---
 
-### Javascript - JS
+### Javascript = Comportament
 
 ---
 
 ## Backend
 
-* Servidor
-* Base de dades
+* Servidor/s
 
 ---
 
-### Servidor
+### Aplicació
 
 ---
 
@@ -53,6 +60,7 @@ twitter + github
 
 ## I els mòbils?
 
+* ~~Navegador~~ App
 * API
 
 ---
