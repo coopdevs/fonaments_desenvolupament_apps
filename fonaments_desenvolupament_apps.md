@@ -19,6 +19,8 @@ Desenvolupador a [Coopdevs](http://coopdevs.org/)
 # Com funcionen les apps a internet?
 ![](images/cebes.jpg)
 
+[.footer: Photo by Goh Rhy Yan on Unsplash]
+
 ---
 
 ## Client/Servidor
