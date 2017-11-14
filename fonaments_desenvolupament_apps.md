@@ -93,4 +93,9 @@ twitter + github
 
 ## Github
 
-* Trobar i consultar codi obert
+* Servidor Git
+* Consultar codi allotjat
+
+---
+
+## Demo :clock:
