@@ -109,22 +109,69 @@ if (calculator_select.attr('value') == original_calc_type) {
 
 ## Backend
 
+![](images/roba.jpg)
+
+[.footer: Photo by Dmitry Arslanov on Unsplash]
+
+---
+
+## Backend
+
 * Servidor/s
+* Lògica de negoci
+* Dades
+
+![right](images/servidors.jpg)
+
+[.footer: Photo by Thomas Kvistholt on Unsplash]
 
 ---
 
 ### Aplicació
 
+Implementa les operacions que permet el producte:
+
+* Registrar usuari
+* Realitzar compra
+* Localitzar botiga
+
+Retorna HTML, CSS, JS
+
+---
+
+### Aplicació
+
+```ruby
+def create
+  @payment = @order.payments.build(object_params)
+
+  if @payment.valid?
+    @payment.source = CreditCard.find_by_id(params[:card])
+    @payment.save
+  end
+end
+```
+
 ---
 
 ### Base de dades
 
+Opera sobre les dades
+
+* SELECT
+* INSERT
+* UPDATE
+* DELETE
+
 ---
 
-## I els mòbils?
+### Base de dades
 
-* ~~Navegador~~ App
-* API
+```sql
+SELECT name
+FROM users
+WHERE email = ?;
+```
 
 ---
 
