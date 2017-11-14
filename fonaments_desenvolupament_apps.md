@@ -25,6 +25,10 @@ Desenvolupador a [Coopdevs](http://coopdevs.org/)
 
 ## Client/Servidor
 
+![](images/cambrer.jpg)
+
+[.footer: Photo by Lan Pham on Unsplash]
+
 ---
 
 ### Client/Servidor
