@@ -175,19 +175,31 @@ WHERE email = ?;
 
 ---
 
-# Com es fa tot això?
+## I els mòbils què?
+
+![](images/telefon.jpg)
+
+[.footer: Photo by Antoine Barrès on Unsplash]
 
 ---
 
-# Com es fa tot això? Escrivint codi en _____*
+### ~~Navegador~~ App
 
-\* Ruby, JS, PHP, Elixir, Rust, Java, Clojure, C++...
+* ~~HTML + CSS~~
+* ~~JavaScript~~ 
+*  Tecnologia nativa
 
 ---
 
-## Reusant codi
+### Aplicació
 
-### NO reinventar la roda
+Implementa les operacions que permet el producte:
+
+* Registrar usuari
+* Realitzar compra
+* Localitzar botiga
+
+Retorna ~~HTML, CSS, JS~~ dades => web **API**
 
 ---
 
