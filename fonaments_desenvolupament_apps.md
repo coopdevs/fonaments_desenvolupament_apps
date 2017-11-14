@@ -105,8 +105,13 @@ sauloperez
 
 ## Github
 
-* Servidor Git
+* Servei de repositoris git
 * Consultar codi allotjat
+
+---
+
+## Anatomia d'un repositori
+![](images/esquelet.jpg)
 
 ---
 
