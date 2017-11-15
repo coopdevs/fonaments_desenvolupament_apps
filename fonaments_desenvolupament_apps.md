@@ -308,7 +308,7 @@ cal tenir en compte:
 ### *Brief* de desenvolupament de software
 
 Redacta un *brief* pel teu projecte o per un que ja existeixi. Pots fer servir la
-[plantilla]() inclosa als recursos de la sessió.
+[plantilla](plantilla_brief.md) inclosa als recursos de la sessió.
 
 ---
 
