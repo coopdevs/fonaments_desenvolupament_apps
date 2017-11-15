@@ -277,6 +277,7 @@ Plataforma de desenvolupament software
 
 ## Exemples
 
+[https://github.com/RubyMoney/money](https://github.com/RubyMoney/money)
 [https://github.com/coopdevs/timeoverflow](https://github.com/coopdevs/timeoverflow)
 [https://github.com/departurerb/departure/](https://github.com/departurerb/departure)
 [https://github.com/facebook/react-native](https://github.com/facebook/react-native)
