@@ -37,7 +37,7 @@ Desenvolupador a [Coopdevs](http://coopdevs.org/)
 ### Client/Servidor
 
 1. Servidor espera passiu
-2. Client li envia una petició
+2. Client envia una petició
 3. Client espera la resposta
 4. Servidor processa i retorna resposta
 
