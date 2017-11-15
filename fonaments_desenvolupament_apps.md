@@ -12,6 +12,7 @@ Desenvolupador a [Coopdevs](http://coopdevs.org/)
 
 [@prez_pau](https://twitter.com/prez_pau)
 [github.com/sauloperez](https://github.com/sauloperez)
+[speakerdeck.com/sauloperez](speakerdeck.com/sauloperez)
 [github.com/coopdevs](https://github.com/coopdevs)
 
 ---
