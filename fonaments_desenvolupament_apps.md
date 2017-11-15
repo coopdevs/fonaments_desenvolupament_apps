@@ -1,3 +1,5 @@
+theme: Next, 3
+
 # Fonaments de desenvolupament d'apps
 
 [.footer: La Comunificadora]
