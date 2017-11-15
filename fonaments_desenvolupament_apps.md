@@ -301,7 +301,7 @@ Busca un repositori de software que t'interessi i analitza'l. Algunes coses que 
 * Tipus de software: Llibreria, framework o app
 * Filosofia de l'eina
 * Dependències i requisits
-* Com s'instal·la o arranca
+* Com s'instal·la o arrenca
 * Com s'hi pot contribuir
 
 ---
