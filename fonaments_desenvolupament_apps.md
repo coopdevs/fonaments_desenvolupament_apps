@@ -186,7 +186,7 @@ WHERE email = ?;
 
 ---
 
-### ~~Navegador~~ App
+### ~~Navegador~~ App Nativa
 
 * ~~HTML + CSS~~
 * ~~JavaScript~~ 
@@ -194,7 +194,7 @@ WHERE email = ?;
 
 ---
 
-### Aplicació
+### ~~Aplicació~~ API
 
 Implementa les operacions que permet el producte:
 
