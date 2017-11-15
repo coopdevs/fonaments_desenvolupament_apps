@@ -296,8 +296,7 @@ Plataforma de desenvolupament software
 
 ### Analitza un repositori de software
 
-Busca un repositori de software que t'interessi i analitza'l. Algunes coses que
-cal tenir en compte:
+Busca un repositori de software que t'interessi i analitza'l. Algunes coses que cal tenir en compte:
 
 * Tipus de software: Llibreria, framework o app
 * Filosofia de l'eina
@@ -309,8 +308,7 @@ cal tenir en compte:
 
 ### *Brief* de desenvolupament de software
 
-Redacta un *brief* pel teu projecte o per un que ja existeixi. Pots fer servir la
-[plantilla](plantilla_brief.md) inclosa als recursos de la sessió.
+Redacta un *brief* pel teu projecte o per un que ja existeixi. Pots fer servir la [plantilla](https://github.com/sauloperez/fonaments_desenvolupament_apps/blob/master/plantilla_brief.md) inclosa als [recursos de la sessió](https://github.com/sauloperez/fonaments_desenvolupament_apps).
 
 ---
 
