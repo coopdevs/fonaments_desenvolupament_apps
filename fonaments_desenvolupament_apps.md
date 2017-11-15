@@ -287,6 +287,30 @@ Plataforma de desenvolupament software
 
 ---
 
+## Activitats
+
+---
+
+### Analitza un repositori de software
+
+Busca un repositori de software que t'interessi i analitza'l. Algunes coses que
+cal tenir en compte:
+
+* Tipus de software: Llibreria, framework o app
+* Filosofia de l'eina
+* Dependències i requisits
+* Com s'instal·la o arranca
+* Com s'hi pot contribuir
+
+---
+
+### *Brief* de desenvolupament de software
+
+Redacta un *brief* pel teu projecte o per un que ja existeixi. Pots fer servir la
+[plantilla]() inclosa als recursos de la sessió.
+
+---
+
 ## Preguntes
 
 ![](images/carretera.jpg)
