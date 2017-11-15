@@ -259,7 +259,19 @@ Plataforma de desenvolupament software
 
 ---
 
-## Anatomia d'un repositori
+## Issue
+
+---
+
+## Pull Request
+
+---
+
+## Merge
+
+---
+
+## Exemples
 
 [https://github.com/coopdevs/timeoverflow](https://github.com/coopdevs/timeoverflow)
 [https://github.com/departurerb/departure/](https://github.com/departurerb/departure)
