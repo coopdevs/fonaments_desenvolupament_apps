@@ -259,23 +259,23 @@ Plataforma de desenvolupament software
 
 ---
 
-## Issue
+### Issue
 
 ---
 
-## Pull Request
+### Pull Request
 
 ---
 
-## Merge
+### Merge
 
 ---
 
-## Fork
+### Fork
 
 ---
 
-## Exemples
+### Exemples
 
 [https://github.com/RubyMoney/money](https://github.com/RubyMoney/money)
 [https://github.com/coopdevs/timeoverflow](https://github.com/coopdevs/timeoverflow)
