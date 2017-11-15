@@ -1,6 +1,10 @@
 # Fonaments de desenvolupament d'apps
 
-Recursos de la sessió "Estratègies de desenvolupament" de La Comunificadora.
+Recursos de la sessió "Estratègies de desenvolupament" de La Comunificadora del
+16 de novembre de 2017.
+
+  * [Diapositives](fonaments_desenvolupament_apps.md)
+  * [Plantilla de *brief* per un projecte software](plantilla_brief.md)
 
 ## Com has fet les diapositives?
 
