@@ -264,6 +264,9 @@ Plataforma de desenvolupament software
 [https://github.com/coopdevs/timeoverflow](https://github.com/coopdevs/timeoverflow)
 [https://github.com/departurerb/departure/](https://github.com/departurerb/departure)
 [https://github.com/facebook/react-native](https://github.com/facebook/react-native)
+[https://github.com/discourse/discourse](https://github.com/discourse/discourse)
+[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+[https://github.com/sindresorhus/awesome](https://github.com/jondot/awesome-react-native)
 
 ---
 
