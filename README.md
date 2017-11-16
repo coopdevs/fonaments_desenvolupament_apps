@@ -3,7 +3,8 @@
 Recursos de la sessió "Estratègies de desenvolupament" de La Comunificadora del
 16 de novembre de 2017.
 
-  * [Diapositives](fonaments_desenvolupament_apps.md)
+  * [Contingut de les diapositives](fonaments_desenvolupament_apps.md)
+  * [Diapositives en PDF](https://speakerdeck.com/sauloperez/fonaments-de-desenvolupament-dapps)
   * [Plantilla de *brief* per un projecte software](plantilla_brief.md)
 
 ## Com has fet les diapositives?
